@@ -118,7 +118,7 @@ li > a:only-child:after { content: ''; }
     height: 285px;
 }
 
-.box a {
+.box h2 {
     margin: 25px;
     text-decoration: none;
     color: #fff;
@@ -129,7 +129,7 @@ li > a:only-child:after { content: ''; }
     padding-left: 10px;
 }
 
-.box a:hover {
+.box h2:hover {
     background-color: #838383;
 }
 
